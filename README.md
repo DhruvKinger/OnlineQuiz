@@ -104,17 +104,17 @@ If you receive a User Account Control notice, choose Yes.
 ## Screenshots
 
 #### SignUp Form :
-![](https://github.com/DhruvKinger/hackathon/blob/master/Forgithub/Screenshot%20(115).png)
+![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(115).png)
 #### Contact Us :
-![](https://github.com/DhruvKinger/hackathon/blob/master/Forgithub/Screenshot%20(637).png)
+![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(637).png)
 #### Login Form :
-![](https://github.com/DhruvKinger/hackathon/blob/master/Forgithub/Screenshot%20(116).png)
+![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(116).png)
 #### About Us:
-![](https://github.com/DhruvKinger/hackathon/blob/master/Forgithub/Screenshot%20(636).png)
+![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(636).png)
 #### Recent Incidents:
-![](https://github.com/DhruvKinger/hackathon/blob/master/Forgithub/Screenshot%20(635).png)
+![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(635).png)
 #### Password Changing Panel:
-![](https://github.com/DhruvKinger/Dream11/blob/master/Forgithub/Screenshot%20(611).png)
+![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(611).png)
 
 
 ## Furture Scope:
