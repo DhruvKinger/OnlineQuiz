@@ -1,6 +1,6 @@
 
 # ONLINE QUIZ
-It is a project made in International NASA Space Apps Hackathon.under this project task was to Spot The Fire.So,what it does was that in case of any emergency situation User just click the picture of that incident and upload it.His location is automatically tracked and Admin can see that Uploaded picture in his panel with all the details.So,he will just click a button and Email will be sent to all the Users of the city,Police Station and Fire Brigade.Further on now actions depend on them. 
+Under this  project we have a maintained Online Portal where user can come and give Quiz on different technologies.He can choose his Topic say like Current Affairs,Dotnet,Machine Learning and so on.He will be having a 
 
 #### Website's Home Page:
 ![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(113).png)
