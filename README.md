@@ -29,14 +29,14 @@ The front end is built on *[ASP.NET C#]*, you can use that in Visual Studio an O
 + PRs are always welcome to improve exisiting system and documentation too.:thumbsup:
 
 ### Default Login Credentials For Admin
-| Username      | Password |
+|Email    | Password |
 | ------------- | ------------- |
-|    ADMIN      | ADMIN |
+|    admin@skills.com     | admin |
 
 ### Default Login Credentials For User
-| Username | Password |
+| Email | Password |
 | ------------- | ------------- |
-| dk | 12345|
+| user@gmail.com | abc123#|
 
 
 ### Technology Used
