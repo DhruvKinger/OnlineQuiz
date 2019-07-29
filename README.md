@@ -14,8 +14,6 @@ Under this  project I have maintained an Online Portal where user can come and g
 + [Features](#features)
 + [Screenshots](#screenshots)
 
-
-
 ## Development
 The backend of the system is developed on *[MSSQL SERVER](https://www.microsoft.com/en-au/sql-server/sql-server-downloads)* and it is free and open source. You just need to download this and installed it on your pc and it will be integrated with the Frontend in the Visual Studio 2017.
 The front end is built on *[ASP.NET C#]*, you can use that in Visual Studio an OpenSource Platform Developed By Microsoft.Bootstrap Files are used too[Bootstrap v2.2.2](http://bootstrapdocs.com/v2.2.2/docs/) using [jQuery](https://blog.jquery.com/2013/02/04/jquery-1-9-1-released/) and [Ajax](https://www.w3schools.com/xml/ajax_intro.asp) and basic HTML/CSS/Javascript are used.
@@ -108,7 +106,7 @@ If you receive a User Account Control notice, choose Yes.
 
 
 ## Furture Scope:
-* Cross Platform Apps for the Project, so that the Fiery_Ok is easily accessible to user easily anywhere and can update any fire event to aware people and to Secure less damage.
-*	We can check location from GPS that from which location the new user has registered the incident.So,we can verify that.
+* Cross Platform Apps for the Project, so that the Online Quiz is easily accessible to user easily anywhere and they can give their Quiz whenever they want to do that so.
+*	We can check location from GPS that from which location the new user has given the test and can keep a track of all the records.
 * The system could also be enhanced by adding the IBM Cloud to detect the intensity of the fire by Vision API in order to give accurate results.
 * If Govt Approves it can be enhanced and made a global App.
