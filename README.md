@@ -92,9 +92,9 @@ If you receive a User Account Control notice, choose Yes.
 + Admin is more of the supreme or you can say a Senior Vice President Person who commands and monitors the progress.
 + All Questions and their answers are added by Admin too.
 + Users give their Quiz after choosing a Specific Technology.
-+ Admin just click one button and All the People of that city who are registerd with City are awared by a Email.
-+ Email is sent to the Police Station,Fire Station and Local Hospitals too of the City.
-
++ Once a User start giving the Quiz ,it's timer also start and after fixed time User cann't make any choices.
++ User can contact Admin too that in order to add a technolgy which they think should be there.
++ 
 ## Screenshots
 
 #### SignUp Form :
