@@ -105,12 +105,6 @@ If you receive a User Account Control notice, choose Yes.
 ![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(637).png)
 #### Login Form :
 ![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(116).png)
-#### About Us:
-![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(636).png)
-#### Recent Incidents:
-![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(635).png)
-#### Password Changing Panel:
-![](https://github.com/DhruvKinger/OnlineQuiz/blob/master/Forgithub/Screenshot%20(611).png)
 
 
 ## Furture Scope:
