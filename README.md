@@ -88,10 +88,10 @@ If you receive a User Account Control notice, choose Yes.
     Next, status screens appear that show the progress of your Visual Studio installation.
 
 ## Features
-+ Admin can see all the Uploaded Fire Incidents claimed by the Users.
++ Admin can add all the Technologies for the Users.
 + Admin is more of the supreme or you can say a Senior Vice President Person who commands and monitors the progress.
-+ User can take a snapshot and upload the Photograph of the Incident.
-+ Location of User is Automatically tracked and is sent to the Admin with all other details User Uploads.
++ All Questions and their answers are added by Admin too.
++ Users give their Quiz after choosing a Specific Technology.
 + Admin just click one button and All the People of that city who are registerd with City are awared by a Email.
 + Email is sent to the Police Station,Fire Station and Local Hospitals too of the City.
 
